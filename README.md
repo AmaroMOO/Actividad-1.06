@@ -33,6 +33,9 @@ Un poco de código `codigo`.
 Esto es un árticulo:
 Árticulo[^árticulo1]
 [^árticulo1]: Árticulo
+
+¿Cómo usar HTML?
+*[HTML]: HyperText Markup Language
     
 > Una de mis páginas favoritas para enterarme de fúbol es BeSoccer.
 Esto es [BeSoccer](https://es.besoccer.com/)
