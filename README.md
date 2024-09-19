@@ -40,4 +40,15 @@ Esto es un árticulo:
 > Una de mis páginas favoritas para enterarme de fúbol es BeSoccer.
 Esto es [BeSoccer](https://es.besoccer.com/)
 
+Tabla de la liga:
+---------------------
+1. | Barcelona
+2. | Real Madrid
+3. | Atlético de Madrid
+
+Goleadores de la liga:
+----------------------
+| Lewandowski | Dani Olmo | Ayoze Pérez |
+|:-----------:|:---------:|:-----------:|
+| 4 goles     | 3 goles   | 3 goles     |
 
