@@ -17,7 +17,19 @@ En fútbol juego de:
 - Mediocentro
   * Mediapunta
     + Delantero
+   
+Some `inline code`.
 
+```
+// A code block
+var foo = 'bar';
+```
+
+```javascript
+// An highlighted block
+var foo = 'bar';
+```
+    
 > Una de mis páginas favoritas para enterarme de fúbol es BeSoccer.
 Esto es [BeSoccer](https://es.besoccer.com/)
 
