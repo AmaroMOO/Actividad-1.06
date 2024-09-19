@@ -6,14 +6,17 @@
 _1º CGFS_
 ~~20-03-2005~~
 
-2^^10^^ es 1024
-
 Aquí es donde estudio: ![IES Haría](https://github.com/user-attachments/assets/d0a2fb44-61a2-4ae6-b36a-ffd134691db1)
 
 Me gusta:
 1. Jugar a fútbol
 2. Jugar a los videjuegos con mis amigos
 3. Y salir con estos
+
+En fútbol juego de:
+- Mediocentro
+  * Mediapunta
+    + Delantero
 
 > Una de mis páginas favoritas para enterarme de fúbol es BeSoccer.
 Esto es [BeSoccer](https://es.besoccer.com/)
