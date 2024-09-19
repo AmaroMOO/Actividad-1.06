@@ -35,6 +35,7 @@ Esto es un árticulo:
 [^árticulo1]: Árticulo
 
 ¿Cómo usar HTML?
+
 *[HTML]: HyperText Markup Language
     
 > Una de mis páginas favoritas para enterarme de fúbol es BeSoccer.
