@@ -18,16 +18,16 @@ En fútbol juego de:
   * Mediapunta
     + Delantero
    
-Some `inline code`.
+Un poco de código `codigo`.
 
 ```
-// A code block
-var foo = 'bar';
+// Bloque de codigo
+1 = '2';
 ```
 
 ```javascript
-// An highlighted block
-var foo = 'bar';
+// Un poco mas de codigo
+2 = '2';
 ```
     
 > Una de mis páginas favoritas para enterarme de fúbol es BeSoccer.
