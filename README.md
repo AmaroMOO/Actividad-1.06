@@ -29,6 +29,9 @@ Un poco de código `codigo`.
 // Un poco mas de codigo
 2 = '2';
 ```
+
+Esto es un árticulo:
+Árticulo[^árticulo1]
     
 > Una de mis páginas favoritas para enterarme de fúbol es BeSoccer.
 Esto es [BeSoccer](https://es.besoccer.com/)
